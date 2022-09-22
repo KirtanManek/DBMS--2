@@ -1,0 +1,80 @@
+[
+  {
+    "EID": 1,
+    "EName": "Nick",
+    "Gender": "Male",
+    "JoiningDate": "2013-01-01T00:00:00",
+    "Salary": 4000,
+    "City": "London"
+  },
+  {
+    "EID": 2,
+    "EName": "Julian",
+    "Gender": "Female",
+    "JoiningDate": "2014-10-01T00:00:00",
+    "Salary": 3000,
+    "City": "New York"
+  },
+  {
+    "EID": 3,
+    "EName": "Roy",
+    "Gender": "Male",
+    "JoiningDate": "2016-06-01T00:00:00",
+    "Salary": 3500,
+    "City": "London"
+  },
+  {
+    "EID": 4,
+    "EName": "Tom",
+    "Gender": "Male",
+    "Salary": 4500,
+    "City": "London"
+  },
+  {
+    "EID": 5,
+    "EName": "Jerry",
+    "Gender": "Male",
+    "JoiningDate": "2013-02-01T00:00:00",
+    "Salary": 2800,
+    "City": "Sydney"
+  },
+  {
+    "EID": 6,
+    "EName": "Philip",
+    "Gender": "Male",
+    "JoiningDate": "2015-01-01T00:00:00",
+    "Salary": 7000,
+    "City": "New York"
+  },
+  {
+    "EID": 7,
+    "EName": "Sara",
+    "Gender": "Female",
+    "JoiningDate": "2017-08-01T00:00:00",
+    "Salary": 4800,
+    "City": "Sydney"
+  },
+  {
+    "EID": 8,
+    "EName": "Emily",
+    "Gender": "Female",
+    "JoiningDate": "2015-01-01T00:00:00",
+    "Salary": 5500,
+    "City": "New York"
+  },
+  {
+    "EID": 9,
+    "EName": "Michael",
+    "Gender": "Male",
+    "Salary": 6500,
+    "City": "London"
+  },
+  {
+    "EID": 10,
+    "EName": "John",
+    "Gender": "Male",
+    "JoiningDate": "2015-01-01T00:00:00",
+    "Salary": 8800,
+    "City": "London"
+  }
+]
